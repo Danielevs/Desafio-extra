@@ -1,8 +1,7 @@
 # Desafio intermediário - Recriando layout
 
-Bem vindo(a),
-
-Nesse desafio, foi recriada uma aplicação, a partir de um layout pronto no Figma, para fortalecer alguns conceitos aprendidos, entre eles:
+📝 **Descrição do Projeto**  
+Landing Page simples para aplicar os conceitos aprendidos sobre HTML e CSS na Rocketseat.
 
 - Estruturando um projeto HTML;
 - Uso de tags HTML mais comuns;
@@ -10,3 +9,5 @@ Nesse desafio, foi recriada uma aplicação, a partir de um layout pronto no
 - Posicionamento e alinhamento de elementos na tela;
 - Aplicando fontes customizadas;
 - Espaçamentos.
+
+Para visualizar ## Acesse: https://danielevs.github.io/Desafio-extra/
